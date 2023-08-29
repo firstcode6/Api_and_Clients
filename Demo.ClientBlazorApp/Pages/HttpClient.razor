@@ -1,0 +1,27 @@
+﻿@page "/httpclient"
+@using Demo.ClientBlazorApp.Interfaces;
+@using Demo.DataLibrary.Models;
+@inject ITimeService TimeService
+
+<h3>HttpClient</h3>
+
+<div class="col 12 row">Server time: @currentTime.Time</div>
+<div class="col 12 row">Server time: @time</div>
+
+@code {
+    CurrentTime currentTime = new CurrentTime();
+    public string time { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+       // var mytime = TimeService.GetTime();
+        currentTime = await TimeService.GetCurrentTime();
+  
+        //time = await TimeService.GetTime();
+
+        await base.OnInitializedAsync();
+    }
+
+
+
+}

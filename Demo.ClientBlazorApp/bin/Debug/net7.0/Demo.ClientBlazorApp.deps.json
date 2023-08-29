@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Demo.ClientBlazorApp/1.0.0": {
+        "dependencies": {
+          "Demo.DataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Demo.ClientBlazorApp.dll": {}
+        }
+      },
+      "Demo.DataLibrary/1.0.0": {
+        "runtime": {
+          "Demo.DataLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.ClientBlazorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Demo.DataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+﻿@page "/films"
+@using Demo.DataLibrary.Models;
+@using Demo.ClientBlazorApp.Interfaces;
+@inject IFilmService FilmService;
+
+<div class="col-10">
+
+    <h3><b>Films</b></h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Date</th>
+                <th>Budget</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var film in filmList)
+            {
+                <tr>
+                    <td>@film.Id</td>
+                    <td>@film.Name</td>
+                    <td>@film.Date</td>
+                    <td>@film.Budget</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+@code {
+    private List<Film> filmList = new List<Film>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await GetFilms();
+    }
+    private async Task GetFilms()
+    {
+        filmList = await FilmService.GetFilms();
+    }
+
+}

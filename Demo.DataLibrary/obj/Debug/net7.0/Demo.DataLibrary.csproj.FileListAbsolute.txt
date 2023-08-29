@@ -1,0 +1,12 @@
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\bin\Debug\net7.0\Demo.DataLibrary.deps.json
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\bin\Debug\net7.0\Demo.DataLibrary.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\bin\Debug\net7.0\Demo.DataLibrary.pdb
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.csproj.AssemblyReference.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.AssemblyInfoInputs.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.AssemblyInfo.cs
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\refint\Demo.DataLibrary.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\Demo.DataLibrary.pdb
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.DataLibrary\obj\Debug\net7.0\ref\Demo.DataLibrary.dll

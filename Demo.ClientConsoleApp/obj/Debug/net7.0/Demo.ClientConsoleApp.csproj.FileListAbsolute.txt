@@ -1,0 +1,15 @@
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\bin\Debug\net7.0\Demo.ClientConsoleApp.exe
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\bin\Debug\net7.0\Demo.ClientConsoleApp.deps.json
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\bin\Debug\net7.0\Demo.ClientConsoleApp.runtimeconfig.json
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\bin\Debug\net7.0\Demo.ClientConsoleApp.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\bin\Debug\net7.0\Demo.ClientConsoleApp.pdb
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.AssemblyInfo.cs
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\refint\Demo.ClientConsoleApp.dll
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.pdb
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\Demo.ClientConsoleApp.genruntimeconfig.cache
+C:\Users\rnazarov\source\repos\Api&Clients\Demo.ClientConsoleApp\obj\Debug\net7.0\ref\Demo.ClientConsoleApp.dll
